@@ -89,8 +89,6 @@ namespace RestaurantApp_04
                             Console.WriteLine("ไม่พบร้านอาหาร");
                         }
                         break;
-
-                    //สรุปคะแนนร้าน
                     case "4":
                         double total = 0;
                         double highest = double.MinValue;
